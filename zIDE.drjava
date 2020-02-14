@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="ZIDEGui.java" package="" timestamp="08-Feb-2020 22:26:14">
+        <select from="1045" to="1045"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="TextEditor.java" package="" timestamp="07-Feb-2020 00:50:39">
+        <select from="1045" to="1045"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="FileList.java" package="" timestamp="08-Feb-2020 22:25:24">
+        <select from="1045" to="1045"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="OutputArea.java" package="" timestamp="08-Feb-2020 22:38:18">
+        <select from="1045" to="1045"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="GuiToolBar.java" package="" timestamp="08-Feb-2020 22:39:53">
+        <select from="1045" to="1045"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="GuiMenuBar.java" package="" timestamp="08-Feb-2020 22:41:28">
+        <select from="1045" to="1045"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
